@@ -7,7 +7,7 @@ import CheckBoxIcon from "@mui/icons-material/CheckBox";
 import SendIcon from "@mui/icons-material/Send";
 
 
-function index() {
+function Index() {
   
   //Endpoint1 is the http request for when the button is clicked
   //Endpoint2 is the http request for the autocomplete options when the site loads
@@ -214,4 +214,4 @@ function index() {
   );
 }
 
-export default index;
+export default Index;
